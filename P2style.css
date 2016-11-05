@@ -1,0 +1,45 @@
+
+body {
+   background-color: #EEE8AA;
+   margin-left: 1in;
+   margin-right: 1in;
+  }
+h1 {
+  color: brown;
+  font-family: tahoma;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;;
+  }
+
+p {
+  color: #696969;
+	font-family: tahoma;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+}
+a {
+  color: inherit;
+  }
+
+a:hover {
+  background-color: #DCDCDC;
+  color: red;
+}
+
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+ul {
+  color: #696969;
+  font-family: tahoma;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  list-style: none;
+}
